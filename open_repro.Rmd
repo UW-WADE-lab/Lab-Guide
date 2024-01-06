@@ -1,0 +1,41 @@
+# Reproducible research {#reproducible}
+
+<br>
+
+We are strong advocates and practitioners of "open and reproducible research". Open research means we use public online platforms for hosting our code and workflows. Reproducible research means that an analysis can be reproduced exactly as originally intended, even if it's years later. Conducting reproducible research is more difficult than it sounds, because it requires you to be organized and document each step of your research process. There are three main things you can do to improve the reproducibility of your research:
+
+1) write extensive documentation  
+2) create programming workflows, and
+3) use formal version control.
+
+Documentation can be in the form of liberal comments in coding scripts, such that others can easily decipher what the code is doing, as well as documents that combine text, equations, code, and results (see the [Markdown section](#markdown) below). Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. Our lab uses Git (a version control software) in combination with GitHub (an online collaboration platform). This is a hard requirement because
+
+* it allows us to definitively track the evolution of files over time,  
+* it allows for easier detection of bugs, and  
+* it facilitates code sharing.
+
+## References
+
+Mark encourages people to take a look at these references on scientific computing and project workflows:
+
+* [Bryan (2018) Excuse me, do you have a moment to talk about version control?](resources/Bryan_2018_version_control.pdf)
+
+* [Cooper & Hsing (2017) A guide to reproducible code in ecology and evolution](resources/BES-guide-to-reproducible-code.pdf)
+
+* [Marwick et al. (2018) Packaging data analytical work reproducibly using R (and friends)](resources/Marwick_et_al_2018_research_compendia.pdf)
+
+* [Wilson et al. (2017) Good enough practices in scientific computing](resources/Wilson_et_al_2017_good_enough_computing.pdf)
+
+## GitHub
+
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. GitHub itself is not a development tool, but rather a file hosting and collaboration site. In many ways, a social network like Facebook. You can build a profile, create projects to share with others, and follow the accounts of other users. GitHub is not linked to any one programming language like R, as you can find all kinds of projects based upon different languages there. GitHub also runs Git in the background. Git is a version control software, which means it records changes to a file or set of files over time so that you can recall specific versions later. 
+
+Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab). Each project gets its own "repository" (or "repo"), which you can think of as the root directory for various folders and files. Each repository also contains a `README` file with information about its contents and a `LICENSE` file that lays out permissions and conditions for others who are interested in our work. There is a special repo in the lab organization that you can use as a template for your research project, which you can find [here](https://github.com/scheuerell-lab/compendium-template). You can learn more about GitHub and how to set up a repo [here](https://fish497.github.io/website/lectures/week_02/lec_04_intro_github.html).
+
+## Markdown {#markdown}
+
+Markdown is a simple markup language for creating formatted text using a plain-text editor. It makes use of some special characters for formatting headers and text. GitHub automatically recognizes Markdown files with a `.md` extension and renders them as formatted information.
+
+R Markdown is a specific flavor of Markdown that allows you great flexibility to include equations and other special formats. It also allows to create documents in various forms such as HTML (`.html`), PDF (`.pdf`), and even MS Word (`.doc`). You can learn more about using Markdown [here](https://fish497.github.io/website/lectures/week_02/lec_04_intro_github.html#Markdown).
+
+
