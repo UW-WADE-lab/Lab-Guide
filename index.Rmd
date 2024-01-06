@@ -1,0 +1,59 @@
+--- 
+title: ""
+author: "Mark Scheuerell"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+```{r echo = FALSE}
+## thanks to John Helveston for these functions
+## https://github.com/jhelvy/jhelvy.github.io/blob/master/R/functions.R
+make_icon <- function(icon) {
+  return(htmltools::tag("i", list(class = icon)))
+}
+
+make_icon_text <- function(icon, text) {
+  return(htmltools::HTML(paste0(make_icon(icon), " ", text)))
+}
+
+# Creates the html to make a button to an external link
+icon_link <- function(icon = NULL, text = NULL, url = NULL) {
+  if (!is.null(icon)) {
+    text <- make_icon_text(icon, text)
+  }
+  return(htmltools::a(href = url, text, class = "icon-link"))
+}
+```
+
+# Welcome {-}
+
+<br>
+
+This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences (SAFS)](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
+
+Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Our research spans a diversity of ecosystems, and includes both at-risk and commercially important species. Importantly, we pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows. You can find out more about our projects on our [lab website](https://depts.washington.edu/appliedecology/).
+
+## Land acknowledgment {-}
+
+We acknowledge the ancestral homelands of those who walked here before us and those who still walk here, keeping in mind the integrity of this territory where area Native peoples identify as the Duwamish, Suquamish, Snoqualmie, and Puyallup, as well as the tribes of the Muckleshoot, Tulalip, other Coast Salish peoples, and their descendants. We are grateful to respectfully live and work as guests on these lands with the Coast Salish and Native people who call this home.
+
+## Credits {-}
+
+Many people and sources inspired the content here. In particular, we would like to acknowledge [Gavin Fay](https://sites.google.com/site/gfay42/), [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/). The Applied Ecology Lab also thanks the following members for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, Karl Veggerby, Nicole Doran, and Andrea Hennings. Our lab logo was designed by the wonderfully talented [Simone Des Roches](https://www.simonedr.com/).
+
+If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
+
+
+## License {-}
+
+`r icon_link(icon = "fas fa-balance-scale", text = "CC-BY-SA-4.0 License", url  = "https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE")`
+
+<!-- <br> -->
+
+<!-- <center style="font-size:0.95rem">v`r format(Sys.Date(), '%y.%m.%d')`</center> -->
+

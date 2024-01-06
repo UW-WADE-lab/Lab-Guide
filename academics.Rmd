@@ -1,0 +1,189 @@
+# Academics
+
+<br>
+
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
+
+## Required coursework
+
+There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's and your committee's permission).
+
+### Core coursework for all M.S. and Ph.D. students {-}
+
+- FISH 522 "Hot Topics in Aquatic and Fishery Sciences" (2 credits; offered Fall)
+- QSCI 482 "Statistical Inference" (5 credits; offered Fall/Winter)
+- FISH 521 "Professional Development" (4 credits; offered Winter)
+- FISH 510-514 "5-teen (miscellaneous topics)" (2X; 2-5 credits each; offered Fall/Winter/Spring)
+
+### Mark's requirements {-}
+
+There is a *very* good chance Mark will also require you to take the following courses (or their equivalent), if you haven't done so already.
+
+- [FISH 549](https://fish549.github.io/website/) "Best Practices in Environmental Data Science" (3 credits; offered Winter of odd years)
+- [QERM 514](https://qerm514.github.io/website/) "Analysis of Ecological and Environmental Data" (4 credits; offered Spring)
+
+### M.S. {-}
+
+- Minimum of 45 credits total at the 400-level or higher
+- At least 18 credits must be in courses numbered 500 and above
+- 18 credits must be numerically graded in department approved 400-level courses accepted as part of the major and in 500-level courses 
+- Minimum of 27 non thesis credits
+
+### Ph.D. {-}
+
+- Minimum of 90 credits total at the 400-level or higher
+- At least 18 credits of course work at the 500 level and above
+- Numerical grades must be received in at least 18 quarter credits of course work
+- The Candidate must register for a minimum of 27 credits of dissertation over a period of at least three quarters
+
+
+## Registering for courses
+
+### Full-Time Enrollment {-}
+
+Full-time quarterly enrollment for graduate students is 10 credits during the academic year (autumn, winter and spring quarters) and 2 credits during the summer quarter. To hold an ASE appointment (RA, TA, or SA), graduate students must be enrolled full-time during the quarter of funding. 
+
+### Final Quarter Registration {-}
+
+A student must maintain registration as a full- or part-time graduate student at the University for the quarter the master's degree, the candidate certificate, or doctoral degree is conferred. A student who does not complete all degree requirements by the last day of the quarter must be registered for the following quarter.
+
+### Continuous Enrollment {-}
+
+During the academic year (autumn, winter, and spring quarters), students must maintain continuous enrollment by being registered full or part-time, registered in absentia, or have petitioned for on-leave status. Students are not required to go on leave or register during summer quarter (unless it is required for your RA or fellowship status). Failure to maintain continuous enrollment will result in being dropped from the University and reapplication will be required to resume studies. Students holding a teaching or research assistantship must be registered for the minimum credits required during their appointment period (a minimum of 10 credits during autumn, winter, and spring quarters, and 2 credits during summer quarter). For this purpose, courses being audited do not count toward the minimum enrollment requirement.
+
+**NOTE**: If you are employed as a student hourly position during the summer, **DO NOT** register for any courses/credits.
+
+
+## Forming a committee
+
+This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; most students do this in their 4th (summer) or 5th (fall) quarter. Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below).
+
+### M.S. Committee {-}
+
+- M.S. committee is 3 members minimum: PI (Mark) + two other people
+- minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
+
+[SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
+
+### Ph.D. Committee {-}
+
+- Ph.D. committee is 4 members minimum
+  - Mark
+  - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS
+  - Two other people
+- minimum of two members must be SAFS core faculty
+
+[SAFS Ph.D. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLScXAjjyjil49lIzOmPbsb12vHyJUlOGtW2B5pHD_5BcqutfFA/viewform)
+
+## Plan of Study
+
+This is an agreement made between the student and the supervisory committee about what coursework will be required to complete the doctoral degree. It includes the core required courses as well as any other courses the committee feels are necessary to give the student the required background in her/his/their area of interest.
+
+* [SAFS Plan of Study Toward the M.S. Degree](https://docs.google.com/forms/d/e/1FAIpQLSfJR2CyPnTCvS9S_M3ouymp5CRK823z5QZJCv2Ftq74hCBPFQ/viewform)
+
+* [SAFS Plan of Study Toward the Ph.D. Degree](https://docs.google.com/forms/d/1RnklFaVPdyQNe4rHKZ9FSvG6yPqougk2Y8R3NWR8f48/viewform?edit_requested=true)
+
+
+## Student & Advisor Annual Review
+
+Every student is expected to undergo an annual review with their advisor and their committee. These annual check-ins should consist of three steps:
+
+1) Independent reports
+    * Student completes a self-evaluation using [this form](resources/student_report.docx)
+    * Advisor completes a student evaluation using [this form](resources/advisor_report.docx)
+
+2) Student / Advisor meeting
+    * Meet to discuss independent reports
+    * Define specific goals for the next academic year including any planned exams
+    * After meeting, the advisor will distribute both reports to Committee
+
+3) Committee meeting
+    * Meet to discuss independent reports or distribute them electronically
+    * Revise and/or approve goals for next academic year
+    * Committee discusses and completes the [Annual Committee Meeting Report](resources/committee_report.docx), and sends it to Student for a response
+    * Advisor files completed Committee Report with SAFS
+
+
+## M.S. Thesis Proposal
+
+After forming your committee (and submitting your plan of study), this is the next major milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 6th quarter of a degree; however, most students complete this in their second year. **NOTE**: Even if you plan on doing the by-pass, you still must complete an M.S. thesis proposal (see [below](Master's by-pass))!
+
+[M.S. Thesis Proposal Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform)
+
+## M.S. Final Exam
+
+The M.S. final exam consists of a public seminar on your thesis followed by a private oral examination by the supervisory committee (final exam).
+
+### Requirements {-}
+
+Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA (Amy Fox).  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for M.S. Final Examination may not be granted, resulting in postponing your graduation quarter.
+
+[M.S. Request for Final Exam Form](https://docs.google.com/forms/d/e/1FAIpQLScJsXlPLyI56qPNQWOL8LGW3JR1jkmVNd4DrjQywx_4Q3SZ1A/viewform) is the link to submit your request for the M.S. final exam.
+
+### Request for M.S. Final Examination {-}
+
+The student must submit a complete, near-to-final draft of the thesis, which has been reviewed and approved by the committee chair, to all members of his or her committee at least four weeks prior to the Final Examination.  After reading the draft and the supervisory committee agrees that you are ready for the Final Examination, please request the final exam via the MS Request for a Final Exam Form. Completion of this form verifies that your committee has read an entire near-to-final draft of your thesis and concurs that you are ready to sit for your final examination. The final draft of the thesis takes place after the final examination, incorporating changes suggested by the committee.
+
+## Master's by-pass
+
+The M.S. by-pass procedure is one of the most frequently asked about processes at SAFS and can be confusing. Below are the requirements from the SAFS grad guide. After you have met all of the requirements and assembled the necessary documents, you will need to submit the information via this form:
+
+[M.S. Bypass Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdu7hFCkKdvC003c6NpVExgD7KzVC9OR3uz_jYuYvFHrXj8cQ/viewform)
+
+### By-pass Requirements: {-}
+
+- All M.S. coursework must be completed
+- A statement from the student that describes their current M.S. research and illustrates the scientific direction and rationale they will take in expanding it to merit Doctoral status.  The statement should also include a plan for coursework that supports their Doctoral degree, while also satisfying program requirements, as well as a funding plan.
+- A statement from the Master's committee chairperson confirming:
+  - that the student's research has progressed to the point of demonstrating competence at the Master's level
+  - the completed M.S. research is a considerable and meaningful base of work for the proposed Ph.D. research, and, the proposed Ph.D. research is a substantive and logical advance from the M.S. research; evidence for this should be outlined in the draft Doctoral dissertation proposal
+  - guaranteeing space and financial support for the student for at least the first academic year of Doctoral study; and
+  - their approval of the draft Doctoral proposal.
+- Current CV or resume;
+- UW transcript (unofficial);
+- A letter or email (to safs@uw.edu) from each member of the student's MS Supervisory Committee indicating that they have read the draft Doctoral proposal, confirm that it constitutes a sufficient basis for a PhD dissertation, as well as their approval to bypass the MS Degree;
+- A copy of the M.S. thesis proposal;
+- A draft doctoral dissertation research proposal that outlines each chapter of the Ph.D. dissertation, including methods, likely outcomes and significance.  Importantly, this must demonstrate that the proposed body of proposed work would satisfy the requirements for a Ph.D. degree This will not be the final dissertation proposal that will later be defended for the General Examination – you will still be expected to submit a formal dissertation proposal after your bypass application has been accepted;
+- A copy of a paper accepted for publication in a peer-reviewed scientific journal; a manuscript that has been submitted (or deemed submittable) to a journal may also be acceptable, in which case letters from at least two MS committee members indicating that the manuscript is scientifically rigorous and publishable are required
+
+### Milestones for students planning to by-pass {-}
+
+1. Form M.S. committee
+2. Submit plan of study for master's and have first M.S. committee meeting
+3. Submit M.S. thesis proposal
+4. By-pass
+5. Form Ph.D. committee
+6. Submit plan of study for Ph.D.
+7. Submit dissertation proposal
+8. Qualifying exam
+9. General exam
+10. Final exam
+
+## Dissertation Proposal
+
+For those entering as Ph.D. students, this is the only proposal you need to write. For those who entered as M.S. students and wish to bypass, this happens once you have completed the by-pass (and therefore means you first must have finished your M.S. thesis proposal). 
+
+## Ph.D. Qualifying Exam
+
+- Should be completed within 18 months of residency in the doctoral program
+- Written exam administered over a one-week period
+- Prior to the Qualifying Exam, the student obtains guidance from each Committee member on the subject matter to be covered and the expected question and answer formats
+
+## Ph.D. General Exam
+
+- Passing your generals means that you are admitted as a Ph.D. candidate
+- A General Examination may be scheduled if:
+  - You've completed 60 credits (some of these credits may be taken the same quarter of the exam)
+  - All required program examinations that do not need Graduate School approval have been completed (for SAFS PhD students, this is a written qualifying exam) 
+  - All members of the supervisory committee agree that the student's background of study and preparation is sufficient and have approved the student to schedule a General Examination.
+
+## Ph.D. Final Exam
+
+Requirements: Two quarters before you plan to take your final examination, please schedule a 30 minute appointment with the SAFS GPA.  At this meeting, the GPA will review your transcript, check your Plan of Study and confirm that all of your milestones have been completed.  If you fail to attend this meeting, your Request for PhD Final Examination may not be granted, resulting in postponing your graduation quarter.
+
+A Final Examination may be scheduled if:
+  - A student passed a General Examination in a previous quarter
+  - A reading committee is officially established with the Graduate School
+  - The reading committee has read an entire draft of the dissertation
+  - The entire supervisory committee has agreed that the student is prepared and has approved the student to schedule a Final Examination.
+

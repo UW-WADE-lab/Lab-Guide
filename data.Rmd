@@ -1,0 +1,141 @@
+# Data management
+
+<br>
+
+Data management is one of the most important aspects of our research program. In particular, when we are collecting our own data we must ensure that we 
+
+1) use conventional formats for entering data into spreadsheets;
+
+2) include the necessary metadata to describe the individual fields in a data file;
+
+3) create backups of the data and metadata files; and
+
+### Data chain of custody {-}
+
+Data chain of custody refers to part of a process whereby everyone must insure their analysis is fully reproducible (see Section \@ref(reproducible)). This includes:
+
+* keeping a copy of the raw data  
+
+* recording all of the operations used to generate the clean data
+
+* documenting the contents of the clean data
+
+## Data files & formats
+
+We ascribe to the "tidy" format for data, wherein each row of a data table or flat file is a unique record and each column is a unique field. [Broman and Woo (2018)](resources/Broman_Woo_2018_spreadsheet_data.pdf) provide an excellent overview of data entry and organization in spreadsheets. Here are their take-home messages:
+
+* **Be consistent**. This includes names of locations, species, sex, as well as dates and file names.
+
+* **Choose good names**. Choose short, but descriptive names for files and avoid spaces in them. For example, `L_WA_limno_sampling.csv` rather than `Lake Washington limnology sampling.csv`.
+
+* **Write dates as `YYYY-MM-DD`**. This may sound trivial, but it turns out to be really important when working with the file as part of an analysis.
+
+* **Don't leave empty cells**. Although it can be tempting to do so when some aspect of a field or record is to be repeated many times, it can wreak havoc on the resulting object when imported into a software like **R**. In particular, if a cell should be consider empty or null, please enter `NA`.
+
+* **Only include one piece of info in a cell**. For example, you might consider a column/field named `plot_sample` with a possible value like `10A`, which would be better separated into 2 columns labeled `plot` and `sample` with respective values `10` and `A`.
+
+* **Do not use color, highlighting, or comments as data**. If the data in a particular cell is otherwise noteworthy for some reason (eg, value is 10X greater than anything else), it's probably best to add an additional `notes` column/field to the file and include any comments there.
+
+* **No calculations in cells**. Although tempting, resist the urge to add cells with calculations that are based on other cells (eg, `=SUM(A1:A3)`). Similarly, do not include graphs or pivot tables in your data files either.
+
+* **Use data validation**. If you are using Excel for data entry, you can take advantage of its "[data validation](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)" feature, which will help insure that the correct type (eg, text) and value (eg, min/max) are entered into a cell.
+
+* **Create a data dictionary**. This should be a separate (and tidy) file with some metadata about the columns/fields, which might include the following:  
+    - The exact variable name as in the data file  
+    - A version of the variable name that might be used in data visualizations  
+    - A longer explanation of what the variable means  
+    - The measurement units  
+    - Expected minimum and maximum values  
+
+* **Save the data as plain text**. If using a spreadsheet like Excel to enter your data, export a copy in a plain text format. Although some people like tab delimited files (`.txt`), we prefer to save our files as comma separated values (`.csv`). CSV files are nice because you can easily open the file in Excel or another spreadsheet program, but perhaps more importantly, this file format does not require any sort of special software to open it.
+
+
+## Metadata
+
+Metadata are simply data that provide information about other data, or in other words, a shorthand representation of the data to which they refer. Metadata benefit science in many ways, including
+
+* **Increased data longevity**. Over the course of a scientist's career she may initiate many different studies, some of which outlast the investigators/students. In addition, many scientists will often contribute information from many areas/fields, each of which may have its own norms, lingo, etc.
+
+* **Increased data reuse & sharing**. Metadata can help other scientists understand whether or not a dataset could be of use to them in their own studies. It also greatly facilitates meta-analyses.
+
+* **Expanded scales/scopes of analyses**. In some cases, short-term studies evolve into long-term programs, and the metadata can help people understand when and how new data can be incorporated into the program. It also facilitates creativity among researchers.
+
+One of the most common questions about metadata is, "How much metadata is enough?" The answer is based on two factors:
+
+1) the effort involved in creating the metadata
+
+2) the value derived from it
+
+In general, it's best to assume that "more is better".
+
+
+### Ecological Metadata Language (EML)
+
+EML reduces ambiguity and uncertainty by formalizing metadata concepts via a comprehensive and standardized set of terms that are intended specifically for ecological data. EML contains various categories of information of the dataset.
+
+#### General dataset {-}
+
+- identify and name the dataset  
+- describe the purpose of the data collection  
+- describe the questions the data were intended to address
+
+#### Geographic {-}
+
+- where the research project took place  
+- where the samples were collected  
+- spatial or geographic references (UTM, lat/lon)
+
+#### Temporal {-}
+
+- range of dates (eg, monthly between June 2019 and Dec 2020)  
+- specific time periods (eg, 01 May 2019, 08:00–12:00)  
+- gaps in time (eg, no data from July 2020 because of power loss)
+
+#### Taxonomic {-}
+
+- taxonomic authority (book or system used to identify species)  
+- taxonomic rank (family, genus, species)
+
+#### Methods {-}
+
+- instruments or devices used to collect data  
+- protocols
+- units of the samples
+
+#### Data table {-}
+
+- *name* is a unique name for the field/column (`date`)  
+- *label* describes the field/column ("date of sample collection)  
+- *definition* indicates what the values represent (length of a fish)  
+- *units* (grams, meters)  
+- *type* (`numeric`, `character`)  
+- *precision* (mm)  
+- *attribute domain description* defines codes & domain of values
+   - `BVA = Bear Valley Creek`  
+   - `Length` is a positive, real value
+
+## Data storage
+
+Where and how to store your data is an important consideration. In general, you are responsible for backing up your data to the cloud, which may involve one or more options.
+
+### GitHub
+
+Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab's [GitHub organization](https://github.com/scheuerell-lab).
+
+Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a "[research compendium](https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html)" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each compendium should be structured with a `/data` folder that contains sub-folders for raw and derived ("cleaned") datasets. It is important that you **do not** revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
+
+### Others
+
+In some cases you may need to rely on another cloud option for data storage or access. For example, a colleague or project collaborator my have information stored on iCloud, Dropbox, or Google Drive. You might also elect to use one of these options as another form of backup for your own data, but if you should choose to do so, be aware that formal version software like Git and the auto-sync features of other platforms may not play nicely together.
+
+## Data archival
+
+Upon completion of a project, all data will be archived in a formal repository and given a unique digital object identifier. In many cases this is a strict requirement of granting agencies and peer-reviewed journals. There are many data archival services available now, some of which charge for the service.
+
+### Zenodo
+
+[Zenodo](https://zenodo.org/) is one of the more popular archival services because it's free and easy to use. It also [integrates nicely with GitHub](https://guides.github.com/activities/citable-code/).
+
+### USGS
+
+USGS also offers a data archival service, which some of our projects use.
