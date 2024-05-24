@@ -166,3 +166,14 @@ podcasts
 twitter-1
 black-owned-businesses
 inclusive-scicomm
+w.a.d.e.-lab
+noaa-northwest-fisheries-science
+w.a.d.e.-lab-genetics-program
+genetics-lab-safety-training
+uw-lab-safety-resources
+required-online-training
+merlab-safety-equipment-locations
+emergency-contact-numbers
+exposure-limits
+genetics-lab-orientation
+personal-protective-equipment-1

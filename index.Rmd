@@ -34,9 +34,9 @@ icon_link <- function(icon = NULL, text = NULL, url = NULL) {
 
 <br>
 
-This is the lab book for [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/)'s Applied Ecology Lab in the [School of Aquatic and Fishery Sciences (SAFS)](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
+This is the lab book for [Amy Van Cise](https://fish.uw.edu/faculty/amy-van-cise/)'s [Whale and Dolphin Ecology](amyvancise.com) (W.A.D.E.) Lab in the [School of Aquatic and Fishery Sciences (SAFS)](https://fish.uw.edu/) at the University of Washington. This book lays out the policies and procedures that we follow, serving as reference material for on-boarding, expectations, communications, coding, data, publishing, and presentations.
 
-Research in the Applied Ecology Lab focuses on the conservation and management of aquatic resources, particularly within Washington State and along the west coast of North America. Our research spans a diversity of ecosystems, and includes both at-risk and commercially important species. Importantly, we pursue our scientific endeavors in an open science environment where we create accessible and reproducible workflows. You can find out more about our projects on our [lab website](https://depts.washington.edu/appliedecology/).
+Research in the W.A.D.E. Lab focuses on understanding the ecology and evolution of top marine predators using integrative datasets to get at complex system processes. We like to tackle fundamental questions about how social behavior, as an ecological strategy, affects the evolutionary trajectory of top marine predators. We also focus a lot of our research on applied conservation questions such as how social behavior affects disease transfer and microbial similarity, or diet preferences and hunting strategies. We specialize in analyses using 'omics tools such as genomics, microbiomics, and eDNA, as well as passive acoustic data and photo ID data. You can read more about our research projects on our [lab website](https://www.amyvancise.com/current-research).
 
 ## Land acknowledgment {-}
 
@@ -44,9 +44,9 @@ We acknowledge the ancestral homelands of those who walked here before us and th
 
 ## Credits {-}
 
-Many people and sources inspired the content here. In particular, we would like to acknowledge [Gavin Fay](https://sites.google.com/site/gfay42/), [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), and [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/). The Applied Ecology Lab also thanks the following members for their contributions to this manual: Dara Farrell, Markus Min, Kelly Mistry, Karl Veggerby, Nicole Doran, and Andrea Hennings. Our lab logo was designed by the wonderfully talented [Simone Des Roches](https://www.simonedr.com/).
+Many people and sources inspired the content here. In particular, we would like to acknowledge [Mark Sheuerell](https://fish.uw.edu/faculty/mark-scheuerell/), who generated the original content and bookdown structure that this lab guide as based on. His work, in turn, was influenced by [Gavin Fay](https://sites.google.com/site/gfay42/), [Chelsea Wood](https://fish.uw.edu/faculty/chelsea-wood/), [Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/), [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/), and many members of the Applied Ecology Lab. Our lab logo was designed by the wonderfully talented [Uko Gorter](https://ukogorter.com/), who is one of the world's foremost artists in the field of marine mammal scientific illustration.
 
-If you have questions or suggestions for improvements, please contact [Mark Scheuerell](mailto:scheuerl@uw.edu).
+If you have questions or suggestions for improvements, please contact [Amy Van Cise](mailto:avancise@uw.edu).
 
 
 ## License {-}

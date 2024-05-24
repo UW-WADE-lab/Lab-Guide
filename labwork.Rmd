@@ -4,13 +4,61 @@
 
 The W.A.D.E. Lab shares genetics laboratory space with the SAFS MERLab, which is jointly run by Drs. [Lorenz Hauser](https://fish.uw.edu/faculty/lorenz-hauser/) ([Marine Population Genomics Lab](https://faculty.washington.edu/lhauser/wordpress/)) and [Kerry Naish](https://fish.uw.edu/faculty/kerry-naish/)([Applied Evolutionary and Ecological Genetics Lab](https://faculty.washington.edu/knaish/)). The lab occupies rooms 271, 276, and 277 on the second floor of the Marine Studies building ([MAR](https://www.google.com/maps/place/Marine+Studies+Building+(MAR)/@47.6525504,-122.3156089,19z/data=!3m1!5s0x549014f1fcfb9d01:0xc96981eca3b78cce!4m6!3m5!1s0x549014f1fced4987:0xc612428a54e06427!8m2!3d47.6524713!4d-122.314939!16s%2Fg%2F1hm4zq649?entry=ttu))
 
-## Genetics Lab Orientation and Safety Training
+## Genetics Lab Safety Training
 
-Any member of the W.A.D.E. Lab who uses the genetics laboratory facilities must first complete a lab orientation and safety training, consisting of an in-person walk-through of the lab spaces and several online training courses. Please read the following information carefully before the in-person orientation:  
+Any member of the W.A.D.E. Lab who uses the genetics laboratory facilities must first complete a lab orientation and safety training, consisting of an in-person walk-through of the lab spaces and several online training courses. Please read this entire page carefully before scheduling an in-person orientation with Amy.
 
-### Online Training Courses
+### UW Lab Safety Resources
 
-## General etiquette and advice
+The UW Environmental Health and Safety Office maintains several helpful lab safety resources. It will be helpful for you to familiarize yourself with each of these; you can always refer back to them when you have specific lab safety questions.
+
+1.[UW EH&S Laboratory Safety Program Office](https://www.ehs.washington.edu/research-lab/laboratory-safety)
+2. [UW Lab Safety Manual - December 2023 edition](https://www.ehs.washington.edu/system/files/resources/lsm.pdf)
+3. [UW EH&S Training Courses](https://www.ehs.washington.edu/training/training-course-selection-guides)
+
+### Required Online Training
+
+The required online training courses will depend what work each person is doing. In general, most people conducting genetic work in the MERLab will need the following three courses, at a minimum:
+
+1. [Fire Extinguisher Training - Online](https://www.ehs.washington.edu/training/fire-extinguisher-training-online)
+2. [Managing Laboratory Chemicals - Online](https://www.ehs.washington.edu/training/managing-laboratory-chemicals-online)
+3. [Eyewashes and Safety Showers - Online](https://www.ehs.washington.edu/training/eyewashes-and-safety-showers)
+
+Once you have completed these training courses, you should see them appear on your list of completed training courses on the [UW EH&S Training Records](https://www.ehs.washington.edu/training-records) site within 1-2 business days. When you meet with Amy, discuss with her whether your anticipated labwork would require any additional UW EH&S training.
+
+### MERLab Safety Equipment Locations
+
+1. Fire alarms and extinguishers - there are three (3) fire alarms in the MERLab. The first is located in the lobby at the top of the main stairwell. The second is located next to the elevators, and the third is located between MAR 276 and MAR 277. Two (2) fire extinguishers are co-located with the second and third fire alarms.
+2. Emergency Showers - there are two (2) emergency showers in the MERLab hallway, one outside 271 and another outside 277. These are checked monthly to ensure functionality.
+3. Eyewash Stations - each lab space has an eyewash station at one of the sinks. In MAR 271, the eyewash station is located in the sink in the aDNA area. In MAR 276, the eyewash station is located in the sink closest to the south door. In MAR 277, the eyewash station is located in the backmost sink.
+4. Evacuation Routes - Emergency exits are located at both the south and north ends of the MERLab hallway.
+5. Material Safety Data Sheets and Standard Operating Procedures - MSDSs and SOPs for all chemicals stored in the lab can be found in MAR 276, above the gel electrophoresis bench.
+6. Chemical Spill Kit - A chemical safety spill kit is located by the north door in MAR 276.
+7. First Aid Kit - A first aid kit is located in MAR 276 at the east end of the center lab bench.
+
+### Emergency Contact Numbers
+
+Emergency contact numbers can be found inside the door of each MERLab space (MAR 271, 276, and 277). In an emergency, contact any of the following:
+
+```{r}
+library(pander)
+
+contacts <- data.frame(Name = c("Amy Van Cise", "Lorenz Hauser", "Kerry Naish"), Role = c("W.A.D.E. Lab PI", "MERLab PI", "MERLab PI"), Phone = c("781-686-6753", NA, NA))
+
+pander(contacts)
+```
+
+### Exposure Limits
+
+How to find exposure limits?
+
+### Personal Protective Equipment
+
+Anyone working in any genetics lab is required to use personal protective equipment, both for their own protection as well as for the protection of the samples. While in the lab, always use a lab coat and nitrile gloves. **Note:** *Lab coats should not leave the lab in which they are located, do NOT wear lab coats in the hallway between labs or in another lab space. Similarly, nitrile gloves should not be transferred between labs.*
+
+Lab coats can be found in each lab space. In MAR 271, they are located XXXX. In MAR 276, they are located by the north door. In MAR 277, they are located by the back sink. 
+
+## Genetics Lab Orientation
 
 -	With the exception of standard household cleaning supplies (windex, all purpose cleaner, soap etc) all chemicals should be stored in the fume hood, or in the chemical storage under the fume hood.
 

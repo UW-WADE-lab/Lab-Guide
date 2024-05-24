@@ -31,7 +31,6 @@ rmd_files: [
   "labwork.Rmd",
   "fieldwork.Rmd",
   "vehicles.Rmd",
-  "boats.Rmd",
   ## appendices
   "dei-resources.Rmd",
   "inclusive_scicomm.Rmd"
