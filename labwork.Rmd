@@ -1,8 +1,14 @@
 # (PART) Lab & Field {-}
 
-# In the lab
+# W.A.D.E. Lab Genetics Program
 
-[ more info coming soon ]
+The W.A.D.E. Lab shares genetics laboratory space with the SAFS MERLab, which is jointly run by Drs. [Lorenz Hauser](https://fish.uw.edu/faculty/lorenz-hauser/) ([Marine Population Genomics Lab](https://faculty.washington.edu/lhauser/wordpress/)) and [Kerry Naish](https://fish.uw.edu/faculty/kerry-naish/)([Applied Evolutionary and Ecological Genetics Lab](https://faculty.washington.edu/knaish/)). The lab occupies rooms 271, 276, and 277 on the second floor of the Marine Studies building ([MAR](https://www.google.com/maps/place/Marine+Studies+Building+(MAR)/@47.6525504,-122.3156089,19z/data=!3m1!5s0x549014f1fcfb9d01:0xc96981eca3b78cce!4m6!3m5!1s0x549014f1fced4987:0xc612428a54e06427!8m2!3d47.6524713!4d-122.314939!16s%2Fg%2F1hm4zq649?entry=ttu))
+
+## Genetics Lab Orientation and Safety Training
+
+Any member of the W.A.D.E. Lab who uses the genetics laboratory facilities must first complete a lab orientation and safety training, consisting of an in-person walk-through of the lab spaces and several online training courses. Please read the following information carefully before the in-person orientation:  
+
+### Online Training Courses
 
 ## General etiquette and advice
 
@@ -14,7 +20,7 @@
 
 -	Keep lab counter spaces clear of clutter. 
 
--	Follow this general guideline: ”leave it as clean or cleaner than you found it”
+-	Follow this general guideline: "leave it as clean or cleaner than you found it"
 
 -	Unless otherwise marked, all supplies and equipment in the lab are communal
 

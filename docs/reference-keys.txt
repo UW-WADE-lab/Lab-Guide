@@ -3,7 +3,7 @@ our-mission
 our-vision
 our-values
 expectations
-marks-role
+amys-role
 grad-students
 postdocs
 undergraduates
@@ -153,8 +153,6 @@ reservations
 keys-1
 parking
 mileage-budget
-boats
-training-1
 resources-on-jedi-in-stem
 collection-of-resources-from-uw
 websites

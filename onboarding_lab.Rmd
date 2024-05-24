@@ -1,22 +1,18 @@
-# Scheuerell Lab 
+# W.A.D.E. Lab 
 
 <br>
 
-Here is some information about getting set up in the Scheuerell Lab, specifically with respect to office space, access, and communication.
+Here is some information about getting set up in the W.A.D.E. Lab, specifically with respect to office space, access, and communication.
 
 ## Office suite
 
-Our lab's office spaces are all located within a suite (Rm 134). Each student will be assigned office space inside the lab suite, which could be in any one of the three interior offices. Specific desks are assigned based on seniority, such that you will have the opportunity to switch desks after students graduate and move on. Each sit/stand desk has an external monitor, keyboard, and mouse to which you may connect your laptop.
+Our lab's office spaces are all located within a suite (FSH 308). Each student will be assigned office space inside the lab suite, which could be in any one of the three interior offices. Specific desks are assigned based on seniority, such that you will have the opportunity to switch desks after students graduate and move on. Each sit/stand desk has an external monitor, keyboard, and mouse to which you may connect your laptop.
 
 ## Keys
 
-Mark will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite (134B, 134C, or 134D). Students and post-docs share keys to the Coop Admin suite (Rm 250) and the lab (Rm 132); Mark will show you where they are kept. These keys should be returned immediately after you are done with them, so that others may use them when necessary.
-
-## Slack account
-
-We use [Slack](https://scheuerell-lab.slack.com) as our primary mode of communication in the lab, as it helps to keep our email more manageable while providing a simple means for categorizing, archiving, and searching prior content. If you do not already have an account in Slack, please sign up for a free one [here](https://slack.com/get-started#/create). After you do so, Mark can invite you to the lab's workspace.
+Amy will assign you a key to the office suite, which will grant you access to the anteroom and your specific office space inside the suite. Students and post-docs share keys to the MERLab space (MAR 271, 276 and 277); Amy will show you where they are kept. These keys should be returned immediately after you are done with them, so that others may use them when necessary.
 
 ## GitHub account
 
-Our lab maintains a so-called "organization" on GitHub [here](https://github.com/scheuerell-lab) where we host information and data related to the lab website, this lab manual, lab meetings, and specific projects. If you do not already have a free GitHub account, please do so [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). After you have established an account, please send your username to Mark so he can add you to the lab organization.
+Our lab maintains a so-called "organization" on GitHub [here](https://github.com/UW-WADE-lab) where we host information and data related to the lab website, this lab manual, lab meetings, and specific projects. If you do not already have a free GitHub account, please sign up for one [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). After you have established an account, please send your username to Amy so she can add you to the lab organization.
 
