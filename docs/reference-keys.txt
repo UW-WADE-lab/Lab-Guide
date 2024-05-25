@@ -177,3 +177,16 @@ emergency-contact-numbers
 exposure-limits
 genetics-lab-orientation
 personal-protective-equipment-1
+merlab-spaces
+dna-extraction-lab-mar-271
+pre-pcr-lab-mar-276
+post-pcr-lab-mar-277
+fridge-and-freezer-facilities
+c-freezer-safety
+use-of-consumables
+merlab-etiquette
+equipment-safety
+chemical-safety
+chemical-storage
+glassware-storage
+lab-sops

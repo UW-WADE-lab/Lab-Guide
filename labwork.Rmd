@@ -1,18 +1,22 @@
 # (PART) Lab & Field {-}
 
-# W.A.D.E. Lab Genetics Program
+# In the lab
 
-The W.A.D.E. Lab shares genetics laboratory space with the SAFS MERLab, which is jointly run by Drs. [Lorenz Hauser](https://fish.uw.edu/faculty/lorenz-hauser/) ([Marine Population Genomics Lab](https://faculty.washington.edu/lhauser/wordpress/)) and [Kerry Naish](https://fish.uw.edu/faculty/kerry-naish/)([Applied Evolutionary and Ecological Genetics Lab](https://faculty.washington.edu/knaish/)). The lab occupies rooms 271, 276, and 277 on the second floor of the Marine Studies building ([MAR](https://www.google.com/maps/place/Marine+Studies+Building+(MAR)/@47.6525504,-122.3156089,19z/data=!3m1!5s0x549014f1fcfb9d01:0xc96981eca3b78cce!4m6!3m5!1s0x549014f1fced4987:0xc612428a54e06427!8m2!3d47.6524713!4d-122.314939!16s%2Fg%2F1hm4zq649?entry=ttu))
+## W.A.D.E. Lab Genetics Program {-}
 
-## Genetics Lab Safety Training
+The W.A.D.E. Lab shares genetics laboratory space with the SAFS MERLab, which is jointly run by Drs. [Lorenz Hauser](https://fish.uw.edu/faculty/lorenz-hauser/) ([Marine Population Genomics Lab](https://faculty.washington.edu/lhauser/wordpress/)) and [Kerry Naish](https://fish.uw.edu/faculty/kerry-naish/) ([Applied Evolutionary and Ecological Genetics Lab](https://faculty.washington.edu/knaish/)). The lab occupies rooms 271, 276, and 277 on the second floor of the Marine Studies building ([MAR](https://www.google.com/maps/place/Marine+Studies+Building+(MAR)/@47.6525504,-122.3156089,19z/data=!3m1!5s0x549014f1fcfb9d01:0xc96981eca3b78cce!4m6!3m5!1s0x549014f1fced4987:0xc612428a54e06427!8m2!3d47.6524713!4d-122.314939!16s%2Fg%2F1hm4zq649?entry=ttu))
+
+## Genetics Lab Safety Training {-}
 
 Any member of the W.A.D.E. Lab who uses the genetics laboratory facilities must first complete a lab orientation and safety training, consisting of an in-person walk-through of the lab spaces and several online training courses. Please read this entire page carefully before scheduling an in-person orientation with Amy.
+
+Once you have completed the online training courses and the in-person orientation to the MERLab spaces, please complete and sign the UW [Lab Employee Safety Training Record](https://www.ehs.washington.edu/system/files/resources/lab-employee-safety-train-checklist.docx), and email a copy to Amy.
 
 ### UW Lab Safety Resources
 
 The UW Environmental Health and Safety Office maintains several helpful lab safety resources. It will be helpful for you to familiarize yourself with each of these; you can always refer back to them when you have specific lab safety questions.
 
-1.[UW EH&S Laboratory Safety Program Office](https://www.ehs.washington.edu/research-lab/laboratory-safety)
+1. [UW EH&S Laboratory Safety Program Office](https://www.ehs.washington.edu/research-lab/laboratory-safety)
 2. [UW Lab Safety Manual - December 2023 edition](https://www.ehs.washington.edu/system/files/resources/lsm.pdf)
 3. [UW EH&S Training Courses](https://www.ehs.washington.edu/training/training-course-selection-guides)
 
@@ -28,19 +32,21 @@ Once you have completed these training courses, you should see them appear on yo
 
 ### MERLab Safety Equipment Locations
 
-1. Fire alarms and extinguishers - there are three (3) fire alarms in the MERLab. The first is located in the lobby at the top of the main stairwell. The second is located next to the elevators, and the third is located between MAR 276 and MAR 277. Two (2) fire extinguishers are co-located with the second and third fire alarms.
-2. Emergency Showers - there are two (2) emergency showers in the MERLab hallway, one outside 271 and another outside 277. These are checked monthly to ensure functionality.
-3. Eyewash Stations - each lab space has an eyewash station at one of the sinks. In MAR 271, the eyewash station is located in the sink in the aDNA area. In MAR 276, the eyewash station is located in the sink closest to the south door. In MAR 277, the eyewash station is located in the backmost sink.
-4. Evacuation Routes - Emergency exits are located at both the south and north ends of the MERLab hallway.
-5. Material Safety Data Sheets and Standard Operating Procedures - MSDSs and SOPs for all chemicals stored in the lab can be found in MAR 276, above the gel electrophoresis bench.
-6. Chemical Spill Kit - A chemical safety spill kit is located by the north door in MAR 276.
-7. First Aid Kit - A first aid kit is located in MAR 276 at the east end of the center lab bench.
+1. **Fire alarms and extinguishers** - there are three (3) fire alarms in the MERLab. The first is located in the lobby at the top of the main stairwell. The second is located next to the elevators, and the third is located between MAR 276 and MAR 277. Two (2) fire extinguishers are co-located with the second and third fire alarms.
+2. **Emergency Showers** - there are two (2) emergency showers in the MERLab hallway, one outside 271 and another outside 277. These are checked monthly to ensure functionality.
+3. **Eyewash Stations** - each lab space has an eyewash station at one of the sinks. In MAR 271, the eyewash station is located in the sink in the aDNA area. In MAR 276, the eyewash station is located in the sink closest to the south door. In MAR 277, the eyewash station is located in the backmost sink.
+4. **Evacuation Routes** - Emergency exits are located at both the south and north ends of the MERLab hallway.
+5. **Material Safety Data Sheets and Standard Operating Procedures** - MSDSs and SOPs for all chemicals stored in the lab can be found in MAR 276, above the gel electrophoresis bench.
+6. **Chemical Spill Kit** - A chemical safety spill kit is located by the north door in MAR 276.
+7. **First Aid Kit** - A first aid kit is located in MAR 276 at the east end of the center lab bench.
 
 ### Emergency Contact Numbers
 
 Emergency contact numbers can be found inside the door of each MERLab space (MAR 271, 276, and 277). In an emergency, contact any of the following:
 
-```{r}
+<center>
+
+```{r, fig.align = "center", echo=FALSE}
 library(pander)
 
 contacts <- data.frame(Name = c("Amy Van Cise", "Lorenz Hauser", "Kerry Naish"), Role = c("W.A.D.E. Lab PI", "MERLab PI", "MERLab PI"), Phone = c("781-686-6753", NA, NA))
@@ -48,30 +54,118 @@ contacts <- data.frame(Name = c("Amy Van Cise", "Lorenz Hauser", "Kerry Naish"),
 pander(contacts)
 ```
 
+</center>
+
 ### Exposure Limits
 
-How to find exposure limits?
+Expsoure limits for hazardous materials can be found on their MSDSs, stored in MAR 276 above the gel electrophoresis bench.
 
 ### Personal Protective Equipment
 
 Anyone working in any genetics lab is required to use personal protective equipment, both for their own protection as well as for the protection of the samples. While in the lab, always use a lab coat and nitrile gloves. **Note:** *Lab coats should not leave the lab in which they are located, do NOT wear lab coats in the hallway between labs or in another lab space. Similarly, nitrile gloves should not be transferred between labs.*
 
-Lab coats can be found in each lab space. In MAR 271, they are located XXXX. In MAR 276, they are located by the north door. In MAR 277, they are located by the back sink. 
+**Lab coats** can be found in each lab space. In MAR 271, they are located XXXX. In MAR 276, they are located by the north door. In MAR 277, they are located by the back sink.
 
-## Genetics Lab Orientation
+Nitrile gloves can be found in MAR 271 by the door, in MAR 276 by the south door, and in MAR 277 by XXXX.
 
--	With the exception of standard household cleaning supplies (windex, all purpose cleaner, soap etc) all chemicals should be stored in the fume hood, or in the chemical storage under the fume hood.
+### Equipment Safety
 
-- In order to help keep the fume hood relatively unobstructed: only chemicals that are being used should be in the actual fume hood, with storage of extra supplies under the hood in the cabinets.
+Proper technique is important to ensure safety while using MERLab equipment. Special considerations include:
 
--	Wash all equipment that has been used and leave out to dry. 
+1. Centrifuges: always ensure centrifuges are properly balanced, and double-check that the lid is tightly sealed before running the centrifuge.
+2. PCR machines: always ensure the top lid is sealed before running a PCR machine.
+3. XXX
 
--	Keep lab counter spaces clear of clutter. 
+### Chemical Safety
 
--	Follow this general guideline: "leave it as clean or cleaner than you found it"
+While working in the MERLab, you may come in contact with potentially harmful chemicals. These include:
 
--	Unless otherwise marked, all supplies and equipment in the lab are communal
+1. **EtOH (ethanol):** Ethanol may be found in dilutions of 100%, 95%, or 70%. 100% ethanol is flammable and can be an irritant to the eyes or skin. It can also affect the respiratory tract if breathed for a long period of time. Safety information for ethanol can be found [here](https://fscimage.fishersci.com/msds/89308.htm). If you come in contact with ethanol, rinse the affected area thoroughly (e.g. eyewash station for eyes or soap and water on skin). Store 100% ethanol in the chemical storage cabinet beneath the north fume hood in MAR 276. Ethanol can be disposed of by pouring down the sink while diluting with plenty of running water.
+
+2. **Bleach:** Bleach may be found in dilutions of 100% or ~10%. 100% bleash is corrosive and can cause eye and skin burns. It is also harmful if inhaled. Safety information for bleach can by found [here](https://fscimage.fishersci.com/msds/91020.htm). If you come in contact with ethanol, rinse the affected area thoroughly (e.g. eyewash station for eyes or soap and water on skin). Store 100% bleach in a tighly sealed container, in the cabinet below sinks and away from other chemicals. Bleach can be disposed of by pouring down the sink while diluting with plenty of running water.
+
+### Chemical storage
+
+All chemicals, including dilutions, must be properly labeled with the chemical makeup (e.g. 95% EtOH/ethanol), date, and proper chemical labels. All chemicals must be stored at or below eye level, on a shelf with edge support. 
+
+1. **EtOH (ethanol)** is stored in MAR 276, in the chemical cabinet underneath the fume hood located at the north end of the room. 
+2. **Acids** are stored in the chemcal cabinet underneath the fume head next to the millipore sink (MAR XXX). 
+3. **Bases** are stored in the cabinets beneath the lab bench in MAR XXX.
+
+### Glassware storage
+
+All glassware must be stored on a shelf with edge support. Glassware storage for each lab space is:
+
+1. MAR271:
+2. MAR276: along north wall of the lab.
+3. MAR277: 
+
+## Genetics Lab Orientation {-}
+
+### MERLab spaces
+
+The MERLab is divided into three main areas to minimize contamination: (1) a DNA extraction lab (MAR 271), (2) a pre-PCR lab (MAR 276), and (3) a post-PCR lab (MAR 277). Genetic material should only move in the direction 1-2-3 and never backwards. Once genetic material has left the pre-PCR lab, for example, it can only go to the post-PCR lab and never return to the DNA extraction lab or pre-PCR lab.
+
+### DNA Extraction Lab (MAR 271)
+
+INFO ON DNA EXTRACTION LAB HERE
+
+### Pre-PCR Lab (MAR 276)
+
+INFO ON PRE-PCR LAB HERE
+
+### Post-PCR Lab (MAR 277)
+
+INFO ON POST-PCR LAB HERE
+
+### Fridge and Freezer Facilities
+
+Various freezers and refidgerators are available for temporary storage of genetics materials and reagents. These include:
+
+1. MAR 271:
+2. MAR 276:
+3. MAR 277:
+
+### -80C Freezer Safety
+
+Note that objects frozen in ultracold (-80C) freezers will cause burns that can damage your skin if you come into direct contact with them. *Always* use thermal gloves when accessing these freezers. 
+
+When done accessing an ultracold freezer, ensure that all inner and outer doors are completely closed and properly latched.
+
+### Use of Consumables
+
+The MERLab is run as a cost center, which allows its member labs to combine orders and reduce waste and additional expenses. The use of certain consumables is covered by a monthly fee to the MERLab; e.g. gloves, ethanol, agarose. Other consumables are ordered as needed; each person must keep track of the amount of these consumables they are using and report that use on a spreadsheet in each lab. The consumables that are ordered on a per-use basis include:
+
+1. Pipette tips
+2. DNA extraction kits
+3. XXX
+
+### Lab SOPs
+
+Standard Operating Procedures (SOPs) exist for several lab protocols that are typically carried out in the MERLab. These include:
+
+1. DNA Extraction
+2. PCR amplification
+3. Metabarcoding library prepartion
+
+## MERLab Etiquette {-}
+
+-	With the exception of standard household cleaning supplies (windex, all purpose cleaner, soap etc) or 10% bleach and 95% EtOH for bench cleaning, all chemicals should be stored in the approprate chemical storage either under the fume hood or in the chemical storage lab bench.
+
+-	All portable lab equipment (e.g. PCR racks, glassware) that has been used must be soaked for at least 10 minutes in 10% bleach, rinsed in DI water, and left out to air dry. Within several hours or the following day, return lab equipment to it's storage location.
+
+- Non-portable lab equipment (e.g. centrifuge, PCR machines, vortexers, tube spinners) should be wiped with 10% bleach and 95% EtOH if any DNA extract or amplification project comes in contact with this equipment. Additionally, equipment should be wiped with 10% bleach and 95% EtOH every 2-3 months.
+
+-	Keep lab counter spaces clear of clutter. Return all lab equipment and chemicals that are not actively being used to their proper storage locations. Before and after using a lab bench, thoroughly wipe the bench and pipettes with 10% bleach followed by 95% EtOH.
+
+-	Follow this general guideline: "leave it as clean or cleaner than you found it."
+
+-	Unless otherwise marked, all supplies and equipment in the lab are communal.
 
 -	Never store samples or chemicals outside of the lab.
 
--	All samples placed in the freezer should be labeled with a date, sample contents, and name of project or person responsible.
+-	All samples placed in the freezer should be labeled with a date, sample contents, name of project, and the person responsible for the samples.
+
+- At the end of a specific lab project, review all intermediate products stored in the fridge and freezer spaces and determine what, if anything, should be stored long-term. Throw out any unneeded intermediate products. Contact the MERLab or W.A.D.E. Lab PIs to discuss long-term storage of products that you wish to keep.
+
+- Periodically conduct checks of the fridge and freezer spaces to ensure that you've removed any unneeded products, and that all of your products are appropriately labeled and stored in the proper location (e.g. on your shelf, clearly labeled with your name).
