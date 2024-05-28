@@ -4,7 +4,7 @@
 
 We recognize that scientific endeavors are reflective of society at large. We all possess different forms of implicit bias that affect the ways in which we relate to others and communicate with them. These implicit biases are also woven within a larger fabric of structural discrimination and prejudice that restricts many people from fully accessing the many facets of science and the academy. If we are to truly integrate everyone into our society in a meaningful context, we must move towards a position of recognizing people for their strengths rather than focusing on their weaknesses. We believe that when we create an open, welcoming space that explicitly acknowledges the differences among us, we can better engage with one another and create positive outcomes for all.
 
-As such, all members of the Scheuerell Lab are expected to abide by the following Code of Conduct. This includes collaborators and visitors to the lab as well. **Violations of this code are taken very seriously and will be addressed swiftly.** We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or (non)belief, age, education, or socio-economic status. 
+As such, all members of SAFS and the Whale and Dolphin Ecology Lab are expected to abide by the following Code of Conduct. This includes collaborators and visitors to the lab as well. **Violations of this code are taken very seriously and will be addressed swiftly.** We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or (non)belief, age, education, or socio-economic status. 
 
 **Note**: Lab members are also expected to abide by the [SAFS Code of Conduct](https://fish.uw.edu/about/code-of-conduct/).
 
@@ -60,13 +60,11 @@ Members of our lab's community who violate these rules—no matter how much they
 
 **_Anyone asked to stop any inappropriate behavior is expected to comply immediately._**
 
-If _any_ inappropriate behavior persists after a discussion with Mark, the offender will be asked to discontinue their participation in Scheuerell lab projects, meetings, or other activities.
+If _any_ inappropriate behavior persists after a discussion with Amy, the offender will be asked to discontinue their participation in W.A.D.E. lab projects, meetings, or other activities.
 
 ## Reporting
 
-If you believe someone has violated the Code of Conduct, please report it to Mark who will take appropriate action to address the situation. If the incident involves Mark, or for whatever reason you are uncomfortable reporting the incident to Mark, please contact any of the following individuals:
-
-* [Sarah Converse](https://fish.uw.edu/faculty/sarah-converse/) (Mark's supervisor)
+If you believe someone has violated the Code of Conduct, please report it to Amy who will take appropriate action to address the situation. If the incident involves Amy, or for whatever reason you are uncomfortable reporting the incident to Amy, please contact any of the following individuals:
 
 * [Michael Martínez](mailto:mcfm@uw.edu) (SAFS Diversity Specialist)
 
@@ -86,4 +84,4 @@ If you believe someone has violated the Code of Conduct, please report it to Mar
 
 ### Credits {-}
 
-Much of this content is based upon Codes of Conduct developed by the [Data Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#about-this-document).
+This content is based upon the Code of Conduct developed by [Mark Scheuerell](https://fish.uw.edu/faculty/mark-scheuerell/) and the [Applied Ecology Lab](https://depts.washington.edu/appliedecology/), as well as the [Data Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#about-this-document) Codes of Conduct.

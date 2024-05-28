@@ -1,6 +1,6 @@
 --- 
 title: ""
-author: "Mark Scheuerell"
+author: "Amy Van Cise"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -51,7 +51,7 @@ If you have questions or suggestions for improvements, please contact [Amy Van C
 
 ## License {-}
 
-`r icon_link(icon = "fas fa-balance-scale", text = "CC-BY-SA-4.0 License", url  = "https://github.com/scheuerell-lab/lab-book/blob/main/LICENSE")`
+`r icon_link(icon = "fas fa-balance-scale", text = "CC-BY-SA-4.0 License", url  = "https://github.com/UW-WADE-lab/Lab-Guide/blob/main/LICENSE")`
 
 <!-- <br> -->
 

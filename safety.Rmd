@@ -14,11 +14,11 @@ Our lab keeps a confidential list of emergency contacts for every member of the 
 
 ## Lab
 
-[more info coming soon]
+Our lab has extensive protocols for safety while working in the genetics lab. A complete guide to these safety protocols can be found at the [In the lab](https://uw-wade-lab.github.io/Lab-Guide/in-the-lab.html) tab. Please carefully read all safety protocols and complete all required training courses before working in the lab.
 
 ## Field
 
-**NOTE**: Click [here](resources/Scheuerell_fieldwork_safety_plan_2022.pdf) to access our full field safety document.
+Click [here]() to access our full field safety document. This section is currently under development: more coming soon!
 
 ### General considerations
 

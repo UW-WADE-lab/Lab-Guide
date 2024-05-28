@@ -120,7 +120,7 @@ Where and how to store your data is an important consideration. In general, you 
 
 ### GitHub
 
-Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the lab's [GitHub organization](https://github.com/scheuerell-lab).
+Each research project (or chapter of a thesis/dissertation) should have a corresponding repository in GitHub. At the outset, students and postdocs may choose to create these repos under their own GitHub username, with the expectation that they also invite Mark as a formal collaborator. As people finish projects, the corresponding repo should be transferred over to the W.A.D.E. lab's [GitHub organization](https://github.com/UW-WADE-lab).
 
 Data for your project should be pushed/pulled from GitHub as part of your regular workflow. Each project repo should be set up as a "[research compendium](https://fish497.github.io/website/lectures/week_01/lec_03_orgs_styles.html)" following one of the templates [here](https://github.com/scheuerell-lab/onboarding/tree/master/templates). Each compendium should be structured with a `/data` folder that contains sub-folders for raw and derived ("cleaned") datasets. It is important that you **do not** revise the raw data files outside of your workflow, and instead keep unchanged versions of them in the `/data/raw` folder.
 

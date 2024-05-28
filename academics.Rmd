@@ -2,11 +2,19 @@
 
 <br>
 
-This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams. Most of the resources here have been summarized from the [SAFS grad guide](https://docs.google.com/document/d/1LuPMsUMPyA4AYuD5CIjDwVsFM2tNyA2pg3A-d90PrF8/edit) or the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there.
+This section includes the most important resources for navigating the various SAFS milestones/protocols/procedures, including coursework requirements, the master's by-pass process, and various exams.
+
+Most of the resources here have been summarized from the [SAFS Forms, Guidelines, & Handbooks Page](https://fish.uw.edu/students/advising/forms-guidelines-handbooks/). A more detailed description of most of these processes/protocols/requirements can be found there. On that page you can also find several helpful resources, including:
+
+- [SAFS Graduate Student Guide](https://tinyurl.com/SAFSGradGuide)
+- [SAFS MS Procedures Checklist](https://docs.google.com/document/d/1722v1Copks5wLWsVQk37RNxXDXyOwIRp/edit?usp=sharing&ouid=112805088439958222746&rtpof=true&sd=true)
+- [SAFS MS Planning Worksheet](https://docs.google.com/document/d/1q7enbi-DOfO1WICIoN22jCvfTUEa3fNl/edit?usp=sharing&ouid=112805088439958222746&rtpof=true&sd=true)
+- [SAFS PhD Procesdures Checklist](https://docs.google.com/document/d/189p2Hd9e7cuZbuVOKPo7ISVosUBTdKy9/edit?usp=sharing&ouid=112805088439958222746&rtpof=true&sd=true)
+- [SAFS PhD Planning Worksheet](https://docs.google.com/document/d/1OLKI4NpN_ToYR9PBybzwMUcSs2oFkU7b/edit?usp=sharing&ouid=112805088439958222746&rtpof=true&sd=true)
 
 ## Required coursework
 
-There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Mark's and your committee's permission).
+There are only a few courses that SAFS requires every student to take, as our goal is to have students work with their supervisory committee to chart a plan of study that is best suited to the student's needs. **Note**: If you feel that prior courses that you have taken would satisfy any core requirements (or any other courses), you can waive these courses (with Amy's and your committee's permission).
 
 ### Core coursework for all M.S. and Ph.D. students {-}
 
@@ -15,19 +23,29 @@ There are only a few courses that SAFS requires every student to take, as our go
 - FISH 521 "Professional Development" (4 credits; offered Winter)
 - FISH 510-514 "5-teen (miscellaneous topics)" (2X; 2-5 credits each; offered Fall/Winter/Spring)
 
-### Mark's requirements {-}
+### Amy's requirements {-}
 
-There is a *very* good chance Mark will also require you to take the following courses (or their equivalent), if you haven't done so already.
+There is a *very* good chance Amy will also require you to take the following courses (or their equivalent), if you haven't done so already.
 
-- [FISH 549](https://fish549.github.io/website/) "Best Practices in Environmental Data Science" (3 credits; offered Winter of odd years)
 - [QERM 514](https://qerm514.github.io/website/) "Analysis of Ecological and Environmental Data" (4 credits; offered Spring)
+- [FISH 553](https://fish.uw.edu/wp-content/uploads/sites/29/2020/01/Syllabus-FISH553_AUT2018.pdf) "Advanced R Programming for Natural Scientists" (2 credits, offered Fall)
+- [FISH 554](https://fish.uw.edu/wp-content/uploads/sites/29/2020/01/Syllabus-FISH554_WIN2020.pdf) "Beautiful Graphics in R" (2 credits, offered Fall)
+- [FISH 549](https://fish549.github.io/website/) "Best Practices in Environmental Data Science" (3 credits; offered Winter of odd years)
+
+### Genetics requirements {-}
+
+Most students in the W.A.D.E. lab will focus at leat part of their thesis work on genetics. If you are planning to use genetics for any part of your M.S. or Ph.D. thesis work, you will also need to take a few genetics courses.
+
+- [BIOL 302](https://faculty.washington.edu/takato/laboratory-techniques-in.html) "Laboratory Techniques in Cell and Molecular Biology" (5 credits, offered every quarter)
+- [FISH 444](https://fish.uw.edu/wp-content/uploads/sites/29/2020/01/Syllabus-FISH444_SPR2017.pdf) "Conservation Genetics" (5 credits, offered Spring)
+- [FISH 546](https://github.com/sr320/course-fish546-2018/wiki) "Bioinformatics for Environmental Sciences" (3 credits, offered Winter)
 
 ### M.S. {-}
 
 - Minimum of 45 credits total at the 400-level or higher
 - At least 18 credits must be in courses numbered 500 and above
 - 18 credits must be numerically graded in department approved 400-level courses accepted as part of the major and in 500-level courses 
-- Minimum of 27 non thesis credits
+- Minimum of 27 non-thesis credits
 
 ### Ph.D. {-}
 
@@ -53,27 +71,24 @@ During the academic year (autumn, winter, and spring quarters), students must ma
 
 **NOTE**: If you are employed as a student hourly position during the summer, **DO NOT** register for any courses/credits.
 
-
 ## Forming a committee
 
 This is typically the first milestone for both M.S. and Ph.D. students. The SAFS grad guide states that this is generally done in the 1st to 5th quarter of a degree; most students do this in their 4th (summer) or 5th (fall) quarter. Your first committee meeting typically occurs shortly after committee formation and is where you go over your plan of study (see below).
 
 ### M.S. Committee {-}
 
-- M.S. committee is 3 members minimum: PI (Mark) + two other people
+- M.S. committee is 3 members minimum: PI (Amy) + two other people
 - minimum of two members must be SAFS core faculty; this means that of the two people who aren't your PI, one can be non-SAFS core faculty.
-
-[SAFS M.S. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform)
+- Record committee formation formally using the [SAFS Graduate Milestone Form](https://docs.google.com/forms/d/e/1FAIpQLSc0xZmmPrdwzxR0xDTSLQQ2NfS-G_NSqFGtci15qhJP1TTFOg/viewform).
 
 ### Ph.D. Committee {-}
 
 - Ph.D. committee is 4 members minimum
-  - Mark
+  - Amy
   - GSR (Graduate School Representative) - this is a faculty member from UW but outside of SAFS
   - Two other people
 - minimum of two members must be SAFS core faculty
-
-[SAFS Ph.D. Committee Formation Form](https://docs.google.com/forms/d/e/1FAIpQLScXAjjyjil49lIzOmPbsb12vHyJUlOGtW2B5pHD_5BcqutfFA/viewform)
+- Record committee formation formally using the [SAFS Graduate Milestone Form](https://docs.google.com/forms/d/e/1FAIpQLSc0xZmmPrdwzxR0xDTSLQQ2NfS-G_NSqFGtci15qhJP1TTFOg/viewform).
 
 ## Plan of Study
 

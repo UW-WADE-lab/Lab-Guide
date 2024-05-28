@@ -6,7 +6,7 @@
 
 Maintaining an online presence feels increasingly important in science, as it's often the quickest and most convenient way to communicate about what's being done, who's doing it, and where it's happening. If someone wants to find out about you, they're going to search for you online.
 
-Mark encourages everyone to create a personal website, as they are a great way to show the projects you work on, the people you collaborate with, your CV, etc. There are many different platforms that allow you to create a free website. Mark uses Hugo and reveal.js to create the [lab website on GitHub](https://github.com/scheuerell-lab/website) and would be happy to help you get set up that way. Alternatively, you could use the built-in functionality of options from Google, Wix, Wordpress, etc.
+Amy encourages everyone to create a personal website, as they are a great way to show the projects you work on, the people you collaborate with, your CV, etc. There are many different platforms that allow you to create a free website. Google, Wix, and Wordpress are GUI applications that allow for relatively painless setup of a website. GitHub is another great place to host a website, and you can read more about how to host a website on GitHub [here](https://docs.github.com/en/pages/quickstart).
 
 
 ## What to include?
@@ -29,7 +29,7 @@ Here is a non-exhaustive list of things you might want to include on a website. 
 
 <p></p>
 
-Everyone should have a CV that lists information about your professional activities. Do not list any personal information like your social security number. Mark recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
+Everyone should have a CV that lists information about your professional activities. Do not list any personal information like your social security number. Amy recommends you keep your CV as up-to-date as possible, and you place a link to it on your website.
 
 
 ## What to include?
@@ -59,7 +59,7 @@ Social media is a great way to share your own experiences, discover interesting 
 
 ## Twitter
 
-Many people in the lab have a Twitter account (you can find Mark's [here](https://twitter.com/mark_scheuerell)). Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand. One of the themes (hashtags) that Mark really enjoys is [`#rstats`](https://twitter.com/search?q=%23rstats&src=typed_query&f=live), which includes all kinds of helpful information about the R software and associated branches.
+Many people in SAFS have a Twitter account. Although Amy is not active on Twitter, she supports any lab member who wishes to share their work on Twitter. Twitter's requirement for brevity forces people to distill their messages into terms that (hopefully) many people can understand, and will give you great practice at communicating science to a general audience. One of the themes (hashtags) that Amy really enjoys is [`#rstats`](https://twitter.com/search?q=%23rstats&src=typed_query&f=live), which includes all kinds of helpful information about the R software and associated branches.
 
 ## Instagram
 

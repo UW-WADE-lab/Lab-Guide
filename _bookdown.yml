@@ -11,7 +11,7 @@ rmd_files: [
   "seattle.Rmd",
   "onboarding_safs.Rmd",
   "onboarding_lab.Rmd",
-  "onboarding_cru.Rmd",
+#  "onboarding_cru.Rmd",
   ## policies & procedures
   "communications.Rmd",
   "participation.Rmd",
@@ -21,16 +21,16 @@ rmd_files: [
   "data.Rmd",
   "publications.Rmd",
   "presentations.Rmd",
-  "reservations.Rmd",
-  ## scicomm
-  "online_presence.Rmd",
+#  "reservations.Rmd",
+  ## Lab & Field
+  "labwork.Rmd",
+#  "fieldwork.Rmd",
+#  "vehicles.Rmd",
   ## safety
   "health.Rmd",
   "safety.Rmd",
-  ## Lab & Field
-  "labwork.Rmd",
-  "fieldwork.Rmd",
-  "vehicles.Rmd",
+  ## scicomm
+  "online_presence.Rmd",
   ## appendices
   "dei-resources.Rmd",
   "inclusive_scicomm.Rmd"
