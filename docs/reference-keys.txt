@@ -107,7 +107,7 @@ chemical-storage
 glassware-storage
 merlab-spaces
 dna-extraction-lab-mar-271
-pre-pcr-lab-mar-276
+pre-pcr-lab-mar-274
 post-pcr-lab-mar-277
 fridge-and-freezer-facilities
 c-freezer-safety

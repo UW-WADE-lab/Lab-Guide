@@ -1,5 +1,5 @@
 --- 
-title: ""
+title: "W.A.D.E. Lab Guide"
 author: "Amy Van Cise"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
