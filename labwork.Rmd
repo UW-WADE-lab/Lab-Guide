@@ -14,7 +14,7 @@ Any member of the W.A.D.E. Lab who uses the genetics laboratory facilities must 
 
 Once you have completed the online training courses and the in-person orientation to the MERLab spaces, please complete and sign the UW [Lab Employee Safety Training Record](https://www.ehs.washington.edu/system/files/resources/lab-employee-safety-train-checklist.docx), and email a copy to Amy.
 
-### UW Lab Safety Resources
+### UW Lab Safety Resources {-}
 
 The UW Environmental Health and Safety Office maintains several helpful lab safety resources. It will be helpful for you to familiarize yourself with each of these; you can always refer back to them when you have specific lab safety questions.
 
@@ -22,7 +22,7 @@ The UW Environmental Health and Safety Office maintains several helpful lab safe
 2. [UW Lab Safety Manual - December 2023 edition](https://www.ehs.washington.edu/system/files/resources/lsm.pdf)
 3. [UW EH&S Training Courses](https://www.ehs.washington.edu/training/training-course-selection-guides)
 
-### Required Online Training
+### Required Online Training {-}
 
 The required online training courses will depend what work each person is doing. In general, most people conducting genetic work in the MERLab will need the following three courses, at a minimum:
 
@@ -32,33 +32,33 @@ The required online training courses will depend what work each person is doing.
 
 Once you have completed these training courses, you should see them appear on your list of completed training courses on the [UW EH&S Training Records](https://www.ehs.washington.edu/training-records) site within 1-2 business days. When you meet with Amy, discuss with her whether your anticipated labwork would require any additional UW EH&S training.
 
-### MERLab spaces
+## MERLab spaces {-}
 
 The MERLab is divided into three main areas to minimize contamination: (1) a DNA extraction lab (MAR 271), (2) a pre-PCR lab (MAR 274), and (3) a post-PCR lab (MAR 277). Genetic material and an equipment or supplies should only move in the direction 1-2-3 and never backwards. Once something has left the pre-PCR lab, for example, it can only go to the post-PCR lab and never return to the DNA extraction lab or pre-PCR lab. *Note that it is generally not advised to bring lab notebooks in and out of lab spaces.*
 
-### DNA Extraction Lab (MAR 271)
+### DNA Extraction Lab (MAR 271) {-}
 
 This lab is currently set up for DNA extractions of all types; low template DNA (e.g. eDNA, aDNA), degraded DNA (e.g. fecal DNA), or sensitive DNA (e.g. microbiome) extractions occur in the clean room (MAR 271A on the right). Supplies and equipment from other rooms should not enter this room unless they are thoroughly bleached and sterilized beforehand. 
 
-### Pre-PCR Lab (MAR 272 and 274)
+### Pre-PCR Lab (MAR 272 and 274) {-}
 
 This lab is currently used for tissue subsampling prior to DNA extraction, as well as setting up the first amplification PCR. Products from the DNA extraction lab may enter this lab; once they do they should not return to the DNA extraction lab. Products that leave this lab may go to the post-PCR lab but should not re-enter this lab after being in post.
 
-### Post-PCR Lab (MAR 277)
+### Post-PCR Lab (MAR 277) {-}
 
 This lab contains all PCR machines and is set up for all post-PCR processing of samples, including gel electrophoresis and library preparation for metabarcode sequencing, shotgun sequencing, etc. This lab is the terminus of genetic processing at the MERLab; products enter this lab from the pre-PCR or DNA extraction labs and should not return to any other lab at any point.
 
-### MERLab Safety Equipment Locations
+## MERLab Safety Equipment Locations {-}
 
 1. **Fire alarms and extinguishers** - there are three (3) fire alarms in the MERLab. The first is located in the lobby at the top of the main stairwell. The second is located next to the west building exit at the end of the elevator hallway, and the third is located to the right of the north building exit, next to MAR 276. There are also two fire extinguishers: one is located outside MAR 277 and the second is next to MAR 293 in the elevator hallway. In addition to these, two fire extinguishers are located inside MAR 277, next to each door, and one fire extinguisher is located in MAR 272-274 along the west wall.
 2. **Emergency Showers** - there are two (2) emergency showers on the west side of the MERLab hallway, one outside MAR  and another outside MAR 277 (post-PCR). These are checked monthly to ensure functionality.
 3. **Eyewash Stations** - each lab space has an eyewash station at one of the sinks. In MAR 271 (DNA extraction), the eyewash station is located in the sink in MAR 271B. In MAR 272-274 (pre-PCR), the eyewash station is located in the sink closest to the north door (MAR 274). In MAR 277 (post-PCR), the eyewash station is located in the sink on the south side of the room, facing the windows.
 4. **Evacuation Routes** - Exits are located at both the south and north ends of the MERLab hallway, as well as the west end of the elevator hallway.
-5. **Material Safety Data Sheets and Standard Operating Procedures** - MSDSs and SOPs for all chemicals stored in the lab can be found in the pre-PCR lab, on the shelf above the lab bench on the south wall (MAR 272).
+5. **Material Safety Data Sheets and Standard Operating Procedures** - MSDSs and SOPs for all chemicals stored in the lab can be found in the pre-PCR lab, on the shelf above the lab bench on the south wall (MAR 272). Exposure limits for all chemicals used in the lab can be found on their respective MSDS sheets.
 6. **Chemical Spill Kit** - A chemical safety spill kit is located by the north door in the pre-PCR lab (MAR 274).
 7. **First Aid Kit** - A first aid kit is located in the pre-PCR lab (MAR 272-274) at the west end of the center lab bench.
 
-### Emergency Contact Numbers
+### Emergency Contact Numbers {-}
 
 Emergency contact numbers can be found inside the door of each MERLab space (MAR 271, 274, and 277). In an emergency, contact any of the following:
 
@@ -74,11 +74,7 @@ pander(contacts)
 
 </center>
 
-### Exposure Limits
-
-Expsoure limits for hazardous materials can be found on their MSDSs, stored in the pre-PCR lab above the lab bench on the south wall (MAR 272).
-
-### Personal Protective Equipment
+### Personal Protective Equipment {-}
 
 Anyone working in any genetics lab is required to use personal protective equipment, both for their own protection as well as for the protection of the samples. While in the lab, always use a lab coat and nitrile gloves. **Note:** *Lab coats should not leave the lab in which they are located, do NOT wear lab coats in the hallway between labs or in another lab space. Similarly, nitrile gloves should not be transferred between labs.*
 
@@ -86,7 +82,7 @@ Anyone working in any genetics lab is required to use personal protective equipm
 
 **Nitrile gloves** can be found in MAR 271 on the lowest shelf above the lab bench, in MAR 272-274 on the south wall next to the door, and in MAR 277 on the north wall above the gel electrphoresis bench.
 
-### Equipment Safety
+## Equipment Safety {-}
 
 Proper technique is important to ensure safety while using MERLab equipment. SOPs for specialized MERLab equipment can be found in the W.A.D.E. lab's [Genetic Lab SOPs folder](https://drive.google.com/drive/folders/180tIs4EQgK9JZVMmZvN0ap2sO8C149bk?usp=sharing).
 
@@ -95,9 +91,9 @@ Special considerations include:
 1. Centrifuges: always ensure centrifuges are properly balanced, and double-check that the lid is tightly sealed before running the centrifuge.
 2. PCR machines: always ensure the top lid is sealed before running a PCR machine.
 
-### Chemical Safety
+## Chemical Safety {-}
 
-While working in the MERLab, you may come in contact with potentially harmful chemicals. SOPs for MERLab chemicals can be found in the W.A.D.E. lab's [Genetic Lab SOPs folder](https://drive.google.com/drive/folders/180tIs4EQgK9JZVMmZvN0ap2sO8C149bk?usp=sharing). MSDS sheets for all chemicals are located in the pre-PCR lab (MAR 274) above the lab bench on the south wall.
+While working in the MERLab, you may come in contact with potentially harmful chemicals. SOPs for MERLab chemicals can be found in the W.A.D.E. lab's [Genetic Lab SOPs folder](https://drive.google.com/drive/folders/180tIs4EQgK9JZVMmZvN0ap2sO8C149bk?usp=sharing). MSDS sheets for all chemicals are located in the pre-PCR lab (MAR 274) above the lab bench on the south wall, and exposure limits for all chemicals used in the lab can be found on their respective MSDS sheet.
 
 The most common potentially harmful chemicals are:
 
@@ -105,7 +101,8 @@ The most common potentially harmful chemicals are:
 
 2. **Bleach:** Bleach may be found in dilutions of 100% or ~10%. 100% bleach is corrosive and can cause eye and skin burns. It is also harmful if inhaled. Safety information for bleach can by found [here](https://fscimage.fishersci.com/msds/91020.htm). If you come in contact with ethanol, rinse the affected area thoroughly (e.g. eyewash station for eyes or soap and water on skin). Undiluted bleach can be found in a tightly sealed container below each sinks, stored away from other chemicals. Bleach is used in the lab only for cleaning equipment and bench spaces, and usually in 10-15% dilutions. Bleach can be disposed of by pouring down the sink while diluting with plenty of running water.
 
-### Chemical storage
+## MERLab storage {-}
+### Chemical storage {-}
 
 All chemicals, including dilutions, must be properly labeled with the chemical makeup (e.g. 95% EtOH/ethanol), date, and proper chemical labels. All chemicals must be stored at or below eye level, on a shelf with edge support. 
 
@@ -113,7 +110,7 @@ All chemicals, including dilutions, must be properly labeled with the chemical m
 2. **Acids** are stored in the chemical cabinet underneath the fume head next to the millipore sink (MAR 276). 
 3. **Bases** are stored in the cabinets beneath the lab bench in MAR 276.
 
-### Glassware storage
+### Glassware storage {-}
 
 All glassware must be stored on a shelf with edge support. Most glassware is cleaned and stored in MAR 276, which is connected to the pre-PCR labs (MAR 272-274). Glassware storage for each lab space is:
 
@@ -121,7 +118,7 @@ All glassware must be stored on a shelf with edge support. Most glassware is cle
 2. MAR272-274 (pre-PCR): all glassware for the pre-PCR lab is stored in MAR 276 along the north wall.
 3. MAR277: glassware can be found above the sink on the north wall.
 
-### Fridge and Freezer Facilities
+### Fridge and Freezer Facilities {-}
 
 Various freezers and refrigerators are available for temporary storage of genetic materials and reagents. These include:
 
@@ -130,13 +127,13 @@ Various freezers and refrigerators are available for temporary storage of geneti
 3. post-PCR lab: There are 2 -20C freezers in the post-PCR lab. The upright freezer is currently used to store post-PCR products, the chest freezer holds reagents for use in post-PCR processing.
 4. MAR 276: This lab has one refrigerator (Fridge A) for the storage of temperature-sensitive reagents and supplies (e.g. spin columns).
 
-### -80C Freezer Safety
+#### -80C Freezer Safety {-}
 
 Note that objects frozen in ultracold (-80C) freezers will cause burns that can damage your skin if you come into direct contact with them. *Always* use thermal gloves when accessing these freezers. 
 
 When done accessing an ultracold freezer, ensure that all inner and outer doors are completely closed and properly latched.
 
-### Use of Consumables
+## Use of Consumables {-}
 
 The MERLab is run as a cost center, which allows its member labs to combine orders and reduce waste and additional expenses. The use of certain consumables is covered by a monthly fee to the MERLab; e.g. gloves, ethanol, agarose. Other consumables are ordered as needed; each person must keep track of the amount of these consumables they are using and report that use on a spreadsheet in each lab. The consumables that are ordered on a per-use basis include:
 
@@ -144,7 +141,7 @@ The MERLab is run as a cost center, which allows its member labs to combine orde
 2. DNA extraction kits (DNA extraction lab)
 3. e-gels (post-PCR lab)
 
-### Lab SOPs
+## Lab SOPs {-}
 
 Standard Operating Procedures (SOPs) exist for several lab protocols that are typically carried out in the MERLab. These include:
 
