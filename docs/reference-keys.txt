@@ -97,6 +97,10 @@ conferences-symposia
 in-the-lab
 uw-lab-safety-resources
 required-online-training
+merlab-spaces
+dna-extraction-lab-mar-271
+pre-pcr-lab-mar-272-and-274
+post-pcr-lab-mar-277
 merlab-safety-equipment-locations
 emergency-contact-numbers
 exposure-limits
@@ -105,10 +109,6 @@ equipment-safety
 chemical-safety
 chemical-storage
 glassware-storage
-merlab-spaces
-dna-extraction-lab-mar-271
-pre-pcr-lab-mar-274
-post-pcr-lab-mar-277
 fridge-and-freezer-facilities
 c-freezer-safety
 use-of-consumables
