@@ -145,12 +145,14 @@ The MERLab is run as a cost center, which allows its member labs to combine orde
 
 Standard Operating Procedures (SOPs) exist for several lab protocols that are typically carried out in the MERLab. These include:
 
-1. DNA Extraction using DNEasy blood and tissue extraction kits
-2. PCR amplification
-3. Metabarcode library preparation
-4. AMPure bead clean-up
-5. MinElute DNA purification and gel purification
-6. Sanger sequencing
+1. DNA Extraction (intro video [here](https://www.youtube.com/watch?v=gMl5Q1jnIpg))
+2. PCR amplification (intro video [here](https://www.youtube.com/watch?v=matsiHSuoOw))
+3. Gel electrophoresis (intro video [here](https://www.youtube.com/watch?v=TIZRGt3YAug))
+3. Metabarcode library preparation (overview videos [here](https://www.youtube.com/watch?v=kv09Mhegzuw) and [here](https://www.youtube.com/watch?v=EI9rOtceSe8))
+  **Once the library is prepared, it will be sequenced using Next Generation Sequencing, or NGS, usually on an Illumina MiSeq sequencer (overview video [here](https://www.youtube.com/watch?v=CZeN-IgjYCo))
+4. AMPure bead clean-up (intro video [here](https://www.youtube.com/watch?v=zGV0SjCe0CU))
+5. MinElute DNA purification and gel purification (intro video [here](https://www.youtube.com/watch?v=YC-75aUSf2M))
+6. Sanger sequencing (intro video [here](https://www.youtube.com/watch?v=dVRB4CaLizc))
 
 All lab SOPs, as well as SOPs for chemical and equipment found in the lab, can be found in the W.A.D.E. lab's [Genetic Lab SOPs folder](https://drive.google.com/drive/folders/180tIs4EQgK9JZVMmZvN0ap2sO8C149bk?usp=sharing).
 
